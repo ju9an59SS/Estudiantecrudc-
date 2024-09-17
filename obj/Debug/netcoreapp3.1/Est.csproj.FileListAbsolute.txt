@@ -1,0 +1,42 @@
+C:\Users\Administrator\Desktop\New folder (3) - Copy\crud-Estudiantes-master\crud-Estudiantes-master\EST\bin\Debug\netcoreapp3.1\Est.exe
+C:\Users\Administrator\Desktop\New folder (3) - Copy\crud-Estudiantes-master\crud-Estudiantes-master\EST\bin\Debug\netcoreapp3.1\Est.deps.json
+C:\Users\Administrator\Desktop\New folder (3) - Copy\crud-Estudiantes-master\crud-Estudiantes-master\EST\bin\Debug\netcoreapp3.1\Est.runtimeconfig.json
+C:\Users\Administrator\Desktop\New folder (3) - Copy\crud-Estudiantes-master\crud-Estudiantes-master\EST\bin\Debug\netcoreapp3.1\Est.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\New folder (3) - Copy\crud-Estudiantes-master\crud-Estudiantes-master\EST\bin\Debug\netcoreapp3.1\Est.dll
+C:\Users\Administrator\Desktop\New folder (3) - Copy\crud-Estudiantes-master\crud-Estudiantes-master\EST\bin\Debug\netcoreapp3.1\Est.pdb
+C:\Users\Administrator\Desktop\New folder (3) - Copy\crud-Estudiantes-master\crud-Estudiantes-master\EST\obj\Debug\netcoreapp3.1\Est.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\New folder (3) - Copy\crud-Estudiantes-master\crud-Estudiantes-master\EST\obj\Debug\netcoreapp3.1\Est.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\New folder (3) - Copy\crud-Estudiantes-master\crud-Estudiantes-master\EST\obj\Debug\netcoreapp3.1\Est.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\New folder (3) - Copy\crud-Estudiantes-master\crud-Estudiantes-master\EST\obj\Debug\netcoreapp3.1\Est.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\New folder (3) - Copy\crud-Estudiantes-master\crud-Estudiantes-master\EST\obj\Debug\netcoreapp3.1\Est.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\New folder (3) - Copy\crud-Estudiantes-master\crud-Estudiantes-master\EST\obj\Debug\netcoreapp3.1\Est.dll
+C:\Users\Administrator\Desktop\New folder (3) - Copy\crud-Estudiantes-master\crud-Estudiantes-master\EST\obj\Debug\netcoreapp3.1\Est.pdb
+C:\Users\Administrator\Desktop\New folder (3) - Copy\crud-Estudiantes-master\crud-Estudiantes-master\EST\obj\Debug\netcoreapp3.1\Est.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\New folder (3) - Copy\crud-Estudiantes-master\Crud estudiante\EST\bin\Debug\netcoreapp3.1\Est.exe
+C:\Users\Administrator\Desktop\New folder (3) - Copy\crud-Estudiantes-master\Crud estudiante\EST\bin\Debug\netcoreapp3.1\Est.deps.json
+C:\Users\Administrator\Desktop\New folder (3) - Copy\crud-Estudiantes-master\Crud estudiante\EST\bin\Debug\netcoreapp3.1\Est.runtimeconfig.json
+C:\Users\Administrator\Desktop\New folder (3) - Copy\crud-Estudiantes-master\Crud estudiante\EST\bin\Debug\netcoreapp3.1\Est.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\New folder (3) - Copy\crud-Estudiantes-master\Crud estudiante\EST\bin\Debug\netcoreapp3.1\Est.dll
+C:\Users\Administrator\Desktop\New folder (3) - Copy\crud-Estudiantes-master\Crud estudiante\EST\bin\Debug\netcoreapp3.1\Est.pdb
+C:\Users\Administrator\Desktop\New folder (3) - Copy\crud-Estudiantes-master\Crud estudiante\EST\obj\Debug\netcoreapp3.1\Est.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\New folder (3) - Copy\crud-Estudiantes-master\Crud estudiante\EST\obj\Debug\netcoreapp3.1\Est.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\New folder (3) - Copy\crud-Estudiantes-master\Crud estudiante\EST\obj\Debug\netcoreapp3.1\Est.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\New folder (3) - Copy\crud-Estudiantes-master\Crud estudiante\EST\obj\Debug\netcoreapp3.1\Est.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\New folder (3) - Copy\crud-Estudiantes-master\Crud estudiante\EST\obj\Debug\netcoreapp3.1\Est.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\New folder (3) - Copy\crud-Estudiantes-master\Crud estudiante\EST\obj\Debug\netcoreapp3.1\Est.dll
+C:\Users\Administrator\Desktop\New folder (3) - Copy\crud-Estudiantes-master\Crud estudiante\EST\obj\Debug\netcoreapp3.1\Est.pdb
+C:\Users\Administrator\Desktop\New folder (3) - Copy\crud-Estudiantes-master\Crud estudiante\EST\obj\Debug\netcoreapp3.1\Est.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\prueba tecnica\Crud estudiante\EST\bin\Debug\netcoreapp3.1\Est.exe
+C:\Users\Administrator\Desktop\prueba tecnica\Crud estudiante\EST\bin\Debug\netcoreapp3.1\Est.deps.json
+C:\Users\Administrator\Desktop\prueba tecnica\Crud estudiante\EST\bin\Debug\netcoreapp3.1\Est.runtimeconfig.json
+C:\Users\Administrator\Desktop\prueba tecnica\Crud estudiante\EST\bin\Debug\netcoreapp3.1\Est.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\prueba tecnica\Crud estudiante\EST\bin\Debug\netcoreapp3.1\Est.dll
+C:\Users\Administrator\Desktop\prueba tecnica\Crud estudiante\EST\bin\Debug\netcoreapp3.1\Est.pdb
+C:\Users\Administrator\Desktop\prueba tecnica\Crud estudiante\EST\obj\Debug\netcoreapp3.1\Est.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\prueba tecnica\Crud estudiante\EST\obj\Debug\netcoreapp3.1\Est.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\prueba tecnica\Crud estudiante\EST\obj\Debug\netcoreapp3.1\Est.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\prueba tecnica\Crud estudiante\EST\obj\Debug\netcoreapp3.1\Est.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\prueba tecnica\Crud estudiante\EST\obj\Debug\netcoreapp3.1\Est.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\prueba tecnica\Crud estudiante\EST\obj\Debug\netcoreapp3.1\Est.dll
+C:\Users\Administrator\Desktop\prueba tecnica\Crud estudiante\EST\obj\Debug\netcoreapp3.1\Est.pdb
+C:\Users\Administrator\Desktop\prueba tecnica\Crud estudiante\EST\obj\Debug\netcoreapp3.1\Est.genruntimeconfig.cache

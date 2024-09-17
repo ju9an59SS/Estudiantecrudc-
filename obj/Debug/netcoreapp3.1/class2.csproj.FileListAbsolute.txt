@@ -1,0 +1,41 @@
+C:\Users\Admin\Desktop\Documentos\Cursos\C#\class2\class2\bin\Debug\netcoreapp3.1\class2.exe
+C:\Users\Admin\Desktop\Documentos\Cursos\C#\class2\class2\bin\Debug\netcoreapp3.1\class2.deps.json
+C:\Users\Admin\Desktop\Documentos\Cursos\C#\class2\class2\bin\Debug\netcoreapp3.1\class2.runtimeconfig.json
+C:\Users\Admin\Desktop\Documentos\Cursos\C#\class2\class2\bin\Debug\netcoreapp3.1\class2.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Documentos\Cursos\C#\class2\class2\bin\Debug\netcoreapp3.1\class2.dll
+C:\Users\Admin\Desktop\Documentos\Cursos\C#\class2\class2\bin\Debug\netcoreapp3.1\class2.pdb
+C:\Users\Admin\Desktop\Documentos\Cursos\C#\class2\class2\obj\Debug\netcoreapp3.1\class2.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Documentos\Cursos\C#\class2\class2\obj\Debug\netcoreapp3.1\class2.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Documentos\Cursos\C#\class2\class2\obj\Debug\netcoreapp3.1\class2.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Documentos\Cursos\C#\class2\class2\obj\Debug\netcoreapp3.1\class2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Documentos\Cursos\C#\class2\class2\obj\Debug\netcoreapp3.1\class2.dll
+C:\Users\Admin\Desktop\Documentos\Cursos\C#\class2\class2\obj\Debug\netcoreapp3.1\class2.pdb
+C:\Users\Admin\Desktop\Documentos\Cursos\C#\class2\class2\obj\Debug\netcoreapp3.1\class2.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\New folder (2)\crud-Estudiantes-master\crud-Estudiantes-master\class2\bin\Debug\netcoreapp3.1\class2.exe
+C:\Users\Administrator\Desktop\New folder (2)\crud-Estudiantes-master\crud-Estudiantes-master\class2\bin\Debug\netcoreapp3.1\class2.deps.json
+C:\Users\Administrator\Desktop\New folder (2)\crud-Estudiantes-master\crud-Estudiantes-master\class2\bin\Debug\netcoreapp3.1\class2.runtimeconfig.json
+C:\Users\Administrator\Desktop\New folder (2)\crud-Estudiantes-master\crud-Estudiantes-master\class2\bin\Debug\netcoreapp3.1\class2.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\New folder (2)\crud-Estudiantes-master\crud-Estudiantes-master\class2\bin\Debug\netcoreapp3.1\class2.dll
+C:\Users\Administrator\Desktop\New folder (2)\crud-Estudiantes-master\crud-Estudiantes-master\class2\bin\Debug\netcoreapp3.1\class2.pdb
+C:\Users\Administrator\Desktop\New folder (2)\crud-Estudiantes-master\crud-Estudiantes-master\class2\obj\Debug\netcoreapp3.1\class2.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\New folder (2)\crud-Estudiantes-master\crud-Estudiantes-master\class2\obj\Debug\netcoreapp3.1\class2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\New folder (2)\crud-Estudiantes-master\crud-Estudiantes-master\class2\obj\Debug\netcoreapp3.1\class2.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\New folder (2)\crud-Estudiantes-master\crud-Estudiantes-master\class2\obj\Debug\netcoreapp3.1\class2.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\New folder (2)\crud-Estudiantes-master\crud-Estudiantes-master\class2\obj\Debug\netcoreapp3.1\class2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\New folder (2)\crud-Estudiantes-master\crud-Estudiantes-master\class2\obj\Debug\netcoreapp3.1\class2.dll
+C:\Users\Administrator\Desktop\New folder (2)\crud-Estudiantes-master\crud-Estudiantes-master\class2\obj\Debug\netcoreapp3.1\class2.pdb
+C:\Users\Administrator\Desktop\New folder (2)\crud-Estudiantes-master\crud-Estudiantes-master\class2\obj\Debug\netcoreapp3.1\class2.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\New folder (2)\crud-Estudiantes-master\crud-Estudiantes-master\EST\bin\Debug\netcoreapp3.1\class2.exe
+C:\Users\Administrator\Desktop\New folder (2)\crud-Estudiantes-master\crud-Estudiantes-master\EST\bin\Debug\netcoreapp3.1\class2.deps.json
+C:\Users\Administrator\Desktop\New folder (2)\crud-Estudiantes-master\crud-Estudiantes-master\EST\bin\Debug\netcoreapp3.1\class2.runtimeconfig.json
+C:\Users\Administrator\Desktop\New folder (2)\crud-Estudiantes-master\crud-Estudiantes-master\EST\bin\Debug\netcoreapp3.1\class2.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\New folder (2)\crud-Estudiantes-master\crud-Estudiantes-master\EST\bin\Debug\netcoreapp3.1\class2.dll
+C:\Users\Administrator\Desktop\New folder (2)\crud-Estudiantes-master\crud-Estudiantes-master\EST\bin\Debug\netcoreapp3.1\class2.pdb
+C:\Users\Administrator\Desktop\New folder (2)\crud-Estudiantes-master\crud-Estudiantes-master\EST\obj\Debug\netcoreapp3.1\class2.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\New folder (2)\crud-Estudiantes-master\crud-Estudiantes-master\EST\obj\Debug\netcoreapp3.1\class2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\New folder (2)\crud-Estudiantes-master\crud-Estudiantes-master\EST\obj\Debug\netcoreapp3.1\class2.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\New folder (2)\crud-Estudiantes-master\crud-Estudiantes-master\EST\obj\Debug\netcoreapp3.1\class2.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\New folder (2)\crud-Estudiantes-master\crud-Estudiantes-master\EST\obj\Debug\netcoreapp3.1\class2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\New folder (2)\crud-Estudiantes-master\crud-Estudiantes-master\EST\obj\Debug\netcoreapp3.1\class2.dll
+C:\Users\Administrator\Desktop\New folder (2)\crud-Estudiantes-master\crud-Estudiantes-master\EST\obj\Debug\netcoreapp3.1\class2.pdb
+C:\Users\Administrator\Desktop\New folder (2)\crud-Estudiantes-master\crud-Estudiantes-master\EST\obj\Debug\netcoreapp3.1\class2.genruntimeconfig.cache
